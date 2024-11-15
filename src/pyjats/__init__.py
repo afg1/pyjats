@@ -1,7 +1,7 @@
 """
 A package for parsing the JATS xml format using pydantic
 """
-__version__ = "0.0.1"
+__version__ = "0.0.2"
 
 from src.pyjats.structures import (
     Abbrev,
