@@ -8,7 +8,7 @@ name =  "pyjats"
 authors = [
     {name = "Daniel Ciborowski", email = "dciborow@microsoft.com"},
 ]
-description = "Sample Python Project for creating a new Python Module"
+description = "Quick pydantic based parser for parsing JATS xml from e.g. EuropePMC"
 readme = "README.md"
 classifiers = [
     "Development Status :: 3 - Alpha",
