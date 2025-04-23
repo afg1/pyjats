@@ -23,7 +23,7 @@ classifiers = [
 requires-python = ">=3.8.1"
 dynamic = ["version"]
 dependencies = [
-    "lxml==5.3.0",
+    "lxml==5.4.0",
     "pydantic==2.11.2",
     "xsdata==24.12",
     "xsdata_pydantic==24.5",
