@@ -25,7 +25,7 @@ dynamic = ["version"]
 dependencies = [
     "lxml==5.4.0",
     "pydantic==2.11.3",
-    "xsdata==24.12",
+    "xsdata==25.4",
     "xsdata_pydantic==24.5",
 ]
 
